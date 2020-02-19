@@ -274,21 +274,21 @@ body {font-family: 'Noto Sans KR'; height:100%;}
 
 
 .m_wrap .slide .col01 a.t1 {position:absolute; left:37%; width:23.6%; top:50%; margin-top:-66%;}
-.m_wrap .slide .col01 a.t2 {position:absolute; left:11%; width:13.2%; top:50%; margin-top:61%;}
-.m_wrap .slide .col01 a.t3 {position:absolute; left:71%; width:17.46%; top:50%; margin-top:61%;}
+.m_wrap .slide .col01 a.t2 {position:absolute; left:11%; width:13.2%; top:50%; margin-top:62%;}
+.m_wrap .slide .col01 a.t3 {position:absolute; left:71%; width:17.46%; top:50%; margin-top:62%;}
 
-.m_wrap .slide .col02 a.t1 {position:absolute; left:4%; width:21.46%; top:50%; margin-top:17%;}
+.m_wrap .slide .col02 a.t1 {position:absolute; left:4%; width:21.46%; top:50%; margin-top:18%;}
 .m_wrap .slide .col02 a.t2 {position:absolute; left:79%; width:16.93%; top:50%; margin-top:-69%;}
 
-.m_wrap .slide .col03 a.t1 {position:absolute; left:41%; width:23.73%; top:50%; margin-top:-68%;}
+.m_wrap .slide .col03 a.t1 {position:absolute; left:41%; width:23.73%; top:50%; margin-top:-64%;}
 .m_wrap .slide .col03 a.t2 {position:absolute; left:6%; width:13.2%;  top:50%; margin-top:72%;}
 .m_wrap .slide .col03 a.t3 {position:absolute; left:81%; width:13.2%;  top:50%; margin-top:72%;}
 
-.m_wrap .slide .col04 a.t1 {position:absolute; left:4%; width:27.06%; top:50%; margin-top:-69%;}
+.m_wrap .slide .col04 a.t1 {position:absolute; left:4%; width:27.06%; top:50%; margin-top:24%;}
 .m_wrap .slide .col04 a.t2 {position:absolute; left:62%; width:27.46%; top:50%; margin-top:24%;}
-.m_wrap .slide .col04 a.t3 {position:absolute; left:4%; width:14.8%;  top:50%; margin-top:24%;}
+.m_wrap .slide .col04 a.t3 {position:absolute; left:4%; width:14.8%;  top:50%; margin-top:-69%;}
 
-.m_wrap .slide .col05 a.t1 {position:absolute; left:40%; width:23.73%; top:50%; margin-top:-55%;}
+.m_wrap .slide .col05 a.t1 {position:absolute; left:40%; width:23.73%; top:50%; margin-top:-58%;}
 .m_wrap .slide .col05 a.t2 {position:absolute; left:4%; width:13.7%; top:50%; margin-top:66%;}
 .m_wrap .slide .col05 a.t3 {position:absolute; left:82%; width:13.7%; top:50%; margin-top:66%;}
 
@@ -302,16 +302,16 @@ body {font-family: 'Noto Sans KR'; height:100%;}
 .m_wrap .slide .col08 a.t4 {position:absolute;left: 74%;width:22.8%;top:50%;margin-top: -41%;}
 .m_wrap .slide .col08 a.t5 {position:absolute;left: 77%;width:19.6%;top:50%;margin-top: -53%;}
 
-.m_wrap .slide .col09 a.t1 {position:absolute; left:4%; width:23.6%;  top:50%; margin-top:-72%;}
-.m_wrap .slide .col09 a.t2 {position:absolute; left:74%; width:22.93%; top:50%; margin-top:-72%;}
-.m_wrap .slide .col09 a.t3 {position:absolute; left:4%; width:17.46%; top:50%; margin-top:-32%;}
+.m_wrap .slide .col09 a.t1 {position:absolute; left:4%; width:23.6%;  top:50%; margin-top:-69%;}
+.m_wrap .slide .col09 a.t2 {position:absolute; left:74%; width:22.93%; top:50%; margin-top:-69%;}
+.m_wrap .slide .col09 a.t3 {position:absolute; left:4%; width:17.46%; top:50%; margin-top:-28%;}
 
-.m_wrap .slide .col10 a.t1 {position:absolute; left:4%; width:17.46%; top:50%; margin-top:-75%;}
-.m_wrap .slide .col10 a.t2 {position:absolute; left:74%; width:22.93%; top:50%; margin-top:-75%;}
+.m_wrap .slide .col10 a.t1 {position:absolute; left:4%; width:17.46%; top:50%; margin-top:-60%;}
+.m_wrap .slide .col10 a.t2 {position:absolute; left:74%; width:22.93%; top:50%; margin-top:-60%;}
 
-.m_wrap .slide .col11 a.t1 {position:absolute;left: 4%;width:13.2%;top:50%;margin-top: -75%;}
-.m_wrap .slide .col11 a.t2 {position:absolute;left: 42%;width:17.33%;top:50%;margin-top: -75%;}
-.m_wrap .slide .col11 a.t3 {position:absolute;left: 85%;width:11.86%;top:50%;margin-top: -75%;}
+.m_wrap .slide .col11 a.t1 {position:absolute;left: 4%;width:13.2%;top:50%;margin-top: -68%;}
+.m_wrap .slide .col11 a.t2 {position:absolute;left: 42%;width:17.33%;top:50%;margin-top: -68%;}
+.m_wrap .slide .col11 a.t3 {position:absolute;left: 85%;width:11.86%;top:50%;margin-top: -68%;}
 .m_wrap .slide .col11 a.t4 {position:absolute;left: 4%;width:19.6%;top:50%;margin-top: 70%;}
 
 .m_wrap .slide .col12 a.t1 {position:absolute; left:55%; width:22.93%; top:50%; margin-top:-52%;}
@@ -325,8 +325,8 @@ body {font-family: 'Noto Sans KR'; height:100%;}
 .m_wrap .slide .col14 a.t1 {position:absolute; left:17%; width:19.6%;  top:50%; margin-top:57%;}
 .m_wrap .slide .col14 a.t2 {position:absolute; left:65%; width:17.46%; top:50%; margin-top:57%;}
 
-.m_wrap .slide .col15 a.t1 {position:absolute; left:4%; width:14.8%;  top:50%; margin-top:73%;}
-.m_wrap .slide .col15 a.t2 {position:absolute; left:75%; width:21.86%; top:50%; margin-top:73%;}
+.m_wrap .slide .col15 a.t1 {position:absolute; left:4%; width:14.8%;  top:50%; margin-top:71%;}
+.m_wrap .slide .col15 a.t2 {position:absolute; left:75%; width:21.86%; top:50%; margin-top:71%;}
 
 .m_wrap .slide .col17 a.t1 {position:absolute; left:86%; width:11.86%; top:50%; margin-top:-73%;}
 .m_wrap .slide .col17 a.t2 {position:absolute; left:4%; width:26.4%;  top:50%; margin-top:-73%;}
@@ -344,7 +344,7 @@ body {font-family: 'Noto Sans KR'; height:100%;}
 .m_wrap .slide .col20 a.t2 {position:absolute; left:4%; width:27.06%; top:50%; margin-top:-73%;}
 .m_wrap .slide .col20 a.t3 {position:absolute; left:69%; width:27.46%; top:50%; margin-top:-73%;}
 
-.m_wrap .slide .col21 a.t1 {position:absolute; left:4%; width:6.66%;  top:50%; margin-top:-70%;}
+.m_wrap .slide .col21 a.t1 {position:absolute; left:4%; width:6.66%;  top:50%; margin-top:-68%;}
 .m_wrap .slide .col21 a.t2 {position:absolute; left:76%; width:20.13%; top:50%; margin-top:68%;}
 .m_wrap .slide .col21 a.t3 {position:absolute; left:4%; width:21.6%; top:50%; margin-top:68%;}
 
@@ -354,9 +354,9 @@ body {font-family: 'Noto Sans KR'; height:100%;}
 .m_wrap .slide .col23 a.t1 {position:absolute; left:34%; width:36.4%;  top:50%; margin-top:-76%;}
 .m_wrap .slide .col23 a.t2 {position:absolute; left:43%; width:16.93%; top:50%; margin-top:-66%;}
 
-.m_wrap .slide .col24 a.t1 {position:absolute; left:4%; width:19.6%;  top:50%; margin-top:70%;}
-.m_wrap .slide .col24 a.t2 {position:absolute; left:45%; width:11.86%; top:50%; margin-top:70%;}
-.m_wrap .slide .col24 a.t3 {position:absolute; left:75%; width:21.46%; top:50%; margin-top:70%;}
+.m_wrap .slide .col24 a.t1 {position:absolute; left:4%; width:19.6%;  top:50%; margin-top:68%;}
+.m_wrap .slide .col24 a.t2 {position:absolute; left:45%; width:11.86%; top:50%; margin-top:68%;}
+.m_wrap .slide .col24 a.t3 {position:absolute; left:75%; width:21.46%; top:50%; margin-top:68%;}
 
 .m_wrap .slide .col25 a.t1 {position:absolute; left:4%; width:17.46%; top:50%; margin-top:-65%;}
 .m_wrap .slide .col25 a.t2 {position:absolute; left:46%; width:13.46%; top:50%; margin-top:-65%;}
